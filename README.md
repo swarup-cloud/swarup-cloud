@@ -22,7 +22,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 ⚡ Fun fact I like to read new technical experiments and a part-time chef for my roomates 😂.
 
 
-![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarup-cloud&count_private=true&theme=radical)
+![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarup-cloud)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-cloud&layout=compact)](https://github.com/yushi1007)
 
