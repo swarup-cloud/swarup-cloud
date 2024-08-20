@@ -29,7 +29,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </br>
 
 ### 🤝 Connect with me: 
-<a href="www.linkedin.com/in/swarup-kumar-gupta/">
+<a href="https://www.linkedin.com/in/swarup-kumar-gupta/?trk=public-profile-join-page/">
   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>
 </a>
 </br>
